@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\te20jb9\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(140,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\te20jb9\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(62): warning C4172: returning address of local variable or temporary: colls
+C:\Users\te20jb9\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(208): warning C4717: 'agen': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\te20jb9\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(201): warning C4172: returning address of local variable or temporary: res
+  ConsoleApplication1.vcxproj -> C:\Users\te20jb9\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
